@@ -15,6 +15,34 @@ two)
 # Resources
 
 * Data Source: [schools_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/schools_complete.csv) and [students_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/students_complete.csv)
-* Software: Python 3.8.8, Jupyter Notebook
+* Software: Python 3.8.8, Jupyter Notebook 6.4.6, Pandas 1.3.4, Anaconda 4.11.0
+
+# School District Results
+
+Follow below are the results related to the data analyzed before: 
+
+* Average Math Score = 79
+* Average Reading Score	= 81.9
+* % Passing Math = 75%	
+* % Passing Reading	= 86%
+* % Overall Passing = 65%
+
+Follow below are the results related to the new data analyzed after requested by the school board:
+
+* Average Math Score = 78.9
+* Average Reading Score	= 81.9
+* % Passing Math = 74.8%	
+* % Passing Reading	= 85.7%
+* % Overall Passing = 64.9%
+
+Below is a comparison between previous data vs new analyzed data 
+
+* Average Math Score = 79.0 vs 78.9 = Difference of 0.1
+* Average Reading Score	= 81.9 vs 81.9 = No Difference
+* % Passing Math = 75% vs 74.8% = Difference of 0.2%
+* % Passing Reading	= 86% vs 85.7% = Difference of 0.3%
+* % Overall Passing = 65% vs 64.9% = Difference of 0.1%
+
+How is the district summary affected?
 
 
