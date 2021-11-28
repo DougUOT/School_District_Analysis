@@ -27,6 +27,8 @@ Follow below are the results related to the data analyzed before:
 * % Passing Reading	= 86%
 * % Overall Passing = 65%
 
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School_District_before%20data%20reviewed%20.PNG)
+
 Follow below are the results related to the new data analyzed after requested by the school board:
 
 * Average Math Score = 78.9
@@ -34,6 +36,8 @@ Follow below are the results related to the new data analyzed after requested by
 * % Passing Math = 74.8%	
 * % Passing Reading	= 85.7%
 * % Overall Passing = 64.9%
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School_District_before%20data%20reviewed%20%20(2).PNG)
 
 Follow below the comparison between previous data vs new analyzed data 
 
@@ -57,9 +61,13 @@ Before data analysis (Thomas High School)
 
 * % Overall Passing = 90.63%. Second best results compared to 15 schools.
 
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School%20summary_before%20data%20reviewed.PNG)
+
 After review of data analysis (Thomas High School)
 
 * % Overall Passing = 65.07%. Eighth place compared to 15 schools. 
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School%20summary_after%20data%20reviewed.PNG)
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -70,11 +78,14 @@ Before data analysis (Thomas High School)
 * % Passing Reading = 97.01%. Third best results compared to 15 schools. 
 * % Passing Math = 93.18%. Seventh best results compared to 15 schools.
 
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School%20summary_before%20data%20reviewed.PNG)
 
 After review of data analysis (Thomas High School)
 
 * % Passing Reading = 69.66%. Last place compared to 15 schools.
 * % Passing Math = 66.91%. 10th place compared to 15 schools.
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/School%20summary_after%20data%20reviewed.PNG)
 
 ## How does replacing the ninth-grade scores affect the following:
 
@@ -83,11 +94,18 @@ After review of data analysis (Thomas High School)
 After the School board notified the evidence of academic dishonesty to the math and reading grades of 9th graders at the Thomas High School, the grades were replaced with NaNs. Changing the grades to NaNs is equivalent to zero; it means that the students failed. The results of the data analysis reviewed presented minimal difference concerning the results of the School District, as already mentioned above.
 
   * Student count() Before data analysis was: 1635
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_THS%20count_BEFORE.PNG)
+
   * Student count() After data analysis was: 1174
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_THS%20count_AFTER%20cleanup.PNG)
 
 ### Score by school spending
 
 The Thomas High School has $628 per student and is in the spending range from $630 to $ 644. After reviewing the data analysis at Thomas High School, and with the changes in the passing in math percentage results, reading and overall passing, the School board can review the total school budget, better distributing financial resources to other similar schools with better results.
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Scores%20by%20school%20spending.PNG)
 
 Example:
   Shelton High School
@@ -102,32 +120,37 @@ Example:
 
 Comparing the results of Thomas High School vs the results of other schools, with the same spending ranges (per student), the Thomas High School school presents much lower results after having the grades revised. This low performance could reflect on the results of average in this category in the data analysis. 
 
-
 Comparative between Schools, with the same spending ranges (per student) vs Thomas High School
  * % Passing Math = 73% vs 66.91% = Difference of 6.09%
  * % Passing Reading	= 84% vs 69.66% = Difference of 14.34%
 
-
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20per%20student%20vs%20score.PNG)
 
 ### Scores by school size
 
 The Thomas High School is classified as medium in the size bin between 1000 and 2000. With the results revised Thomas High School, it was with results much lower than the other schools classified as medium.
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.PNG)
 
 Comparative between Schools, with the same size (Medium) vs Thomas High School
  * % Passing Math = 94% vs 66.91 = Difference of 27.09%
  * % Passing Reading	= 97% vs 69.66% = Difference of 27.34%
  * % Overall Passing = 91% vs 65.07% = Difference of 25.93%
 
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size%20summary%20range.PNG)
 
 ### Scores by school type
 
 Thomas High School is a school-type Charter. Thomas High School is underperforming vs other Charter-rated schools. 
+
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Scores%20by%20school%20type_Thomas%20High%20School.PNG)
 
 Comparative between Schools, with the same type (Charter) vs Thomas High School
  * % Passing Math = 94% vs 66.91 = Difference of 27.09%
  * % Passing Reading	= 97% vs 69.66% = Difference of 27.34%
  * % Overall Passing = 90% vs 65.07% = Difference of 24.93%
 
+![](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Type.PNG)
 
 
  
