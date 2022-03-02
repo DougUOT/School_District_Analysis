@@ -3,9 +3,9 @@ Utilizing Python, Jupyter Notebook, Anaconda and the Pandas library to examine S
 
 ## Overview of Project
 
-This project regarding Module 4: PycitySchools, working with Anaconda and one of its items, Jupyter Notebook, using Python and Pandas library. We work with raw data information from CSV documents, examine and clean information, blend datasets, perform mathematical calculations and apply the groupby function to a DataFrame. This assignment is related to the Bootcamp Data Analytics from the University of Toronto.
+Project PycitySchools; working with Anaconda and one of its items, Jupyter Notebook, using Python and Pandas library. We work with raw data information from CSV documents, examine and clean information, blend datasets, perform mathematical calculations and apply the groupby function to a DataFrame. 
 
-We need to import two files [schools_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/schools_complete.csv) and [students_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/students_complete.csv) into Jupyter Notebook using Python and to work with two primary goals for this module:
+We need to import two files [schools_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/schools_complete.csv) and [students_complete.csv](https://github.com/DougUOT/School_District_Analysis/blob/main/Resources/students_complete.csv) into Jupyter Notebook using Python and to work with two primary goals for this project:
 
 1) The first objective is to develop a data analysis generating the school and district summary, containing some key metrics, such as top-five and top-bottom performing schools, based on the overall passing rate, math media and reading of each grade level of each school and finally the scores by school spending per student, by school size, and by school type.
 two) 
